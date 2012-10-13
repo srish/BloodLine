@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/facebook.png</file>
+        <file>Images/loading.png</file>
+        <file>Images/Bloodline.png</file>
+        <file>Images/blood_icon.png</file>
+        <file>Images/FB_Login.png</file>
+        <file>Images/bloodline2.png</file>
+        <file>fonts/MLSJN.TTF</file>
+        <file>Images/pray.png</file>
+        <file>Images/Credits.png</file>
+        <file>Images/Notifications.png</file>
+        <file>Images/Profile.png</file>
+        <file>Images/Settings.png</file>
+        <file>Images/arrow.png</file>
+        <file>Images/back.png</file>
+        <file>Images/blood_chart.png</file>
+        <file>Images/CompatibilityChart.png</file>
+        <file>Images/logoo.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes.dex : \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/example/BloodLineApp/R$string.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/example/BloodLineApp/R.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/example/BloodLineApp/R$drawable.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/example/BloodLineApp/R$layout.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/example/BloodLineApp/R$array.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/example/BloodLineApp/R$attr.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/home/srishakatux/Documents/Projects/BloodLineApp/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
